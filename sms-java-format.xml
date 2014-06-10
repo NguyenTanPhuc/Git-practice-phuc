@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8" standalone="no"?> may ha buoi mmm
-=======
-<?xml version="1.0" encoding="UTF-8" standalone="no"?> may ha buoi add master add master2
->>>>>>> master
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> may ha buoi mmm add master add master2
 <profiles version="12">
 <profile kind="CodeFormatterProfile" name="PostZone Formatting" version="12">
 <setting id="org.eclipse.jdt.core.formatter.comment.insert_new_line_before_root_tags" value="insert"/>
