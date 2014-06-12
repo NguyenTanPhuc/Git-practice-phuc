@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?> may ha buoi mmm add master add master2
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> may ha buoi mmm add master add master2 master commit 1
 <profiles version="12">
 <profile kind="CodeFormatterProfile" name="PostZone Formatting" version="12"> phuc
 <setting id="org.eclipse.jdt.core.formatter.comment.insert_new_line_before_root_tags" value="insert"/> phuc
